@@ -6,6 +6,7 @@ An example of a Calculator UI built with Ionic React
 ### Included in this Ionic React UI
 * Fully functional Calculator
 * Custom buttons
+* History of calculations
 * Animations on button clicks
 * Automatic calculation
 * Use of stock Ionic components
