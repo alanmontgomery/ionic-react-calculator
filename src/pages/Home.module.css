@@ -1,0 +1,46 @@
+.calculatorContainer {
+
+    padding-bottom: 2.5rem;
+    background-color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.sumContainer {
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-end;
+    padding-right: 2rem;
+    margin-top: 2rem;
+
+    background-color: rgba(99, 158, 226, 0.1);
+    padding: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.sumContainer h1,
+.sumContainer h4,
+.sumContainer p {
+
+    margin: 0;
+    padding: 0;
+}
+
+.sumContainer h1 {
+
+    font-size: 4rem;
+}
+
+.sumContainer p {
+
+    font-size: 2rem;
+    color: rgb(163, 163, 163);
+}
+
+.sumContainer h4 {
+
+    color: rgb(197, 197, 197);
+}

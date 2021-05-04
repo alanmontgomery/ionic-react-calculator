@@ -1,0 +1,21 @@
+.button,
+.specialButton {
+
+    margin: 0.2rem;
+    padding: 1.5rem;
+    margin: 0.2rem;
+    border-radius: 15px;
+    font-size: 1.5rem;
+}
+
+.button {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(58, 58, 58);
+}
+
+.specialButton {
+
+    color: rgb(255, 255, 255);
+    background-color: var(--blue-color);
+}
