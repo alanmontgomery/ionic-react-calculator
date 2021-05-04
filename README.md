@@ -1,7 +1,7 @@
 # ionic-react-calculator
 An example of a Calculator UI built with Ionic React
 
-![Ionic React Calculator](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
+![Ionic React Calculator](https://repository-images.githubusercontent.com/364406693/62a7c980-ad34-11eb-8d59-26d67445793f)
 
 ### Included in this Ionic React UI
 * Fully functional Calculator
